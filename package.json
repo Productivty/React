@@ -1,0 +1,25 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "Learning React",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Productivty/React.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Pradeep Thapa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Productivty/React/issues"
+  },
+  "homepage": "https://github.com/Productivty/React#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
